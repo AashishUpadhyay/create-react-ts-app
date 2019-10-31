@@ -1,3 +1,5 @@
+A template to quick start react development using typescript
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
